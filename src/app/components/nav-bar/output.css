@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+html #root,
+body #root {
+  height: 100%;
+}
+html .div-with-button,
+body .div-with-button {
+  background-color: black;
+}
+html .div-with-button button,
+body .div-with-button button {
+  background-color: #e4c681;
+}
+html .div-with-button button:hover,
+body .div-with-button button:hover {
+  background-color: #ffe082;
+}
+
+/*# sourceMappingURL=output.css.map */
